@@ -57,7 +57,7 @@ public class BarChartActivity extends DemoBase implements OnSeekBarChangeListene
                 WindowManager.LayoutParams.FLAG_FULLSCREEN);
         setContentView(R.layout.activity_barchart);
 
-        //aaaaaaaaaa
+        //aaaaaaaaaa梵蒂冈
         setTitle("BarChartActivity");
 
         tvX = findViewById(R.id.tvXMax);
