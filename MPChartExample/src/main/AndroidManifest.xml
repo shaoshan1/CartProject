@@ -52,10 +52,7 @@
         <activity android:name="BarChartPositiveNegative" />
         <activity android:name="FilledLineActivity" />
         <activity android:name="HalfPieChartActivity" />
-<<<<<<< HEAD
         <activity android:name=".YoungTest2Activity" />
-=======
->>>>>>> e9dd44fb1fc6ec088939c20197c50e979e7ccef0
     </application>
 
 </manifest>
